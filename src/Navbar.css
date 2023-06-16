@@ -1,0 +1,9 @@
+.buttn{
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.butform {
+    display: flex;
+    flex-direction: column-reverse;
+}
