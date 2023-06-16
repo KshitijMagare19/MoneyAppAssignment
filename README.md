@@ -1,4 +1,4 @@
-# MoneyApp Assignment
+# MoneyyApp Assignment
 Google sheet clone in React Js.
 
 Download functionality not working properly.
